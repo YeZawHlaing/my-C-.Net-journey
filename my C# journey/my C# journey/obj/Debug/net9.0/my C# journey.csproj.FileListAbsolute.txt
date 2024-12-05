@@ -1,0 +1,14 @@
+E:\C# journey\my C# journey\my C# journey\bin\Debug\net9.0\my C# journey.exe
+E:\C# journey\my C# journey\my C# journey\bin\Debug\net9.0\my C# journey.deps.json
+E:\C# journey\my C# journey\my C# journey\bin\Debug\net9.0\my C# journey.runtimeconfig.json
+E:\C# journey\my C# journey\my C# journey\bin\Debug\net9.0\my C# journey.dll
+E:\C# journey\my C# journey\my C# journey\bin\Debug\net9.0\my C# journey.pdb
+E:\C# journey\my C# journey\my C# journey\obj\Debug\net9.0\my C# journey.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# journey\my C# journey\my C# journey\obj\Debug\net9.0\my C# journey.AssemblyInfoInputs.cache
+E:\C# journey\my C# journey\my C# journey\obj\Debug\net9.0\my C# journey.AssemblyInfo.cs
+E:\C# journey\my C# journey\my C# journey\obj\Debug\net9.0\my C# journey.csproj.CoreCompileInputs.cache
+E:\C# journey\my C# journey\my C# journey\obj\Debug\net9.0\my C# journey.dll
+E:\C# journey\my C# journey\my C# journey\obj\Debug\net9.0\refint\my C# journey.dll
+E:\C# journey\my C# journey\my C# journey\obj\Debug\net9.0\my C# journey.pdb
+E:\C# journey\my C# journey\my C# journey\obj\Debug\net9.0\my C# journey.genruntimeconfig.cache
+E:\C# journey\my C# journey\my C# journey\obj\Debug\net9.0\ref\my C# journey.dll
