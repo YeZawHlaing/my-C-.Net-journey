@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "E:\\C# journey\\my C# journey\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{EB5290C9-F244-40D0-8733-20D0605D53B4}|my C# journey\\my C# journey.csproj|e:\\c# journey\\my c# journey\\my c# journey\\functions\\mainclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB5290C9-F244-40D0-8733-20D0605D53B4}|my C# journey\\my C# journey.csproj|solutionrelative:my c# journey\\functions\\mainclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB5290C9-F244-40D0-8733-20D0605D53B4}|my C# journey\\my C# journey.csproj|e:\\c# journey\\my c# journey\\my c# journey\\functions\\codefile1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB5290C9-F244-40D0-8733-20D0605D53B4}|my C# journey\\my C# journey.csproj|solutionrelative:my c# journey\\functions\\codefile1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EB5290C9-F244-40D0-8733-20D0605D53B4}|my C# journey\\my C# journey.csproj|e:\\c# journey\\my c# journey\\my c# journey\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EB5290C9-F244-40D0-8733-20D0605D53B4}|my C# journey\\my C# journey.csproj|solutionrelative:my c# journey\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,8 +22,25 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainClass.cs",
+              "DocumentMoniker": "E:\\C# journey\\my C# journey\\my C# journey\\functions\\MainClass.cs",
+              "RelativeDocumentMoniker": "my C# journey\\functions\\MainClass.cs",
+              "ToolTip": "E:\\C# journey\\my C# journey\\my C# journey\\functions\\MainClass.cs",
+              "RelativeToolTip": "my C# journey\\functions\\MainClass.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T08:14:32.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -26,15 +51,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "CodeFile1.cs",
+              "DocumentMoniker": "E:\\C# journey\\my C# journey\\my C# journey\\functions\\CodeFile1.cs",
+              "RelativeDocumentMoniker": "my C# journey\\functions\\CodeFile1.cs",
+              "ToolTip": "E:\\C# journey\\my C# journey\\my C# journey\\functions\\CodeFile1.cs",
+              "RelativeToolTip": "my C# journey\\functions\\CodeFile1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T07:47:58.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\C# journey\\my C# journey\\my C# journey\\Program.cs",
               "RelativeDocumentMoniker": "my C# journey\\Program.cs",
-              "ToolTip": "E:\\C# journey\\my C# journey\\my C# journey\\Program.cs*",
-              "RelativeToolTip": "my C# journey\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAgwAYAAAALAAAAAAAAAA==",
+              "ToolTip": "E:\\C# journey\\my C# journey\\my C# journey\\Program.cs",
+              "RelativeToolTip": "my C# journey\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-03T07:50:12.615Z",
+              "WhenOpened": "2024-12-17T07:35:33.826Z",
               "EditorCaption": ""
             }
           ]

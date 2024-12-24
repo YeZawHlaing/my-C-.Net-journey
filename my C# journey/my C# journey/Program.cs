@@ -1,17 +1,17 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿//// See https://aka.ms/new-console-template for more information
 
-using System;
+//using System;
 
-class Helloworld()
-{
-    static void Main(String[] args)
-    {
+//class Helloworld()
+//{
+//    static void Main(String[] args)
+//    {
 
-        Console.WriteLine("Hello, World!");
-        Console.ReadLine();
+//        Console.WriteLine("Hello, World!");
+//        Console.ReadLine();
 
-    }
-}
+//    }
+//}
 
 
 

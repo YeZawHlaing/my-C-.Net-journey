@@ -1,0 +1,17 @@
+E:\C# journey\first window app\first window app\bin\Debug\net9.0-windows\first window app.exe
+E:\C# journey\first window app\first window app\bin\Debug\net9.0-windows\first window app.deps.json
+E:\C# journey\first window app\first window app\bin\Debug\net9.0-windows\first window app.runtimeconfig.json
+E:\C# journey\first window app\first window app\bin\Debug\net9.0-windows\first window app.dll
+E:\C# journey\first window app\first window app\bin\Debug\net9.0-windows\first window app.pdb
+E:\C# journey\first window app\first window app\obj\Debug\net9.0-windows\first_window_app.Frmcalc.resources
+E:\C# journey\first window app\first window app\obj\Debug\net9.0-windows\first window app.csproj.GenerateResource.cache
+E:\C# journey\first window app\first window app\obj\Debug\net9.0-windows\first window app.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# journey\first window app\first window app\obj\Debug\net9.0-windows\first window app.AssemblyInfoInputs.cache
+E:\C# journey\first window app\first window app\obj\Debug\net9.0-windows\first window app.AssemblyInfo.cs
+E:\C# journey\first window app\first window app\obj\Debug\net9.0-windows\first window app.csproj.CoreCompileInputs.cache
+E:\C# journey\first window app\first window app\obj\Debug\net9.0-windows\first window app.sourcelink.json
+E:\C# journey\first window app\first window app\obj\Debug\net9.0-windows\first window app.dll
+E:\C# journey\first window app\first window app\obj\Debug\net9.0-windows\refint\first window app.dll
+E:\C# journey\first window app\first window app\obj\Debug\net9.0-windows\first window app.pdb
+E:\C# journey\first window app\first window app\obj\Debug\net9.0-windows\first window app.genruntimeconfig.cache
+E:\C# journey\first window app\first window app\obj\Debug\net9.0-windows\ref\first window app.dll

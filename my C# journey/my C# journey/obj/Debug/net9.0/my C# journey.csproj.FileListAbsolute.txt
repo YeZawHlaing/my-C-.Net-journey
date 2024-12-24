@@ -12,3 +12,4 @@ E:\C# journey\my C# journey\my C# journey\obj\Debug\net9.0\refint\my C# journey.
 E:\C# journey\my C# journey\my C# journey\obj\Debug\net9.0\my C# journey.pdb
 E:\C# journey\my C# journey\my C# journey\obj\Debug\net9.0\my C# journey.genruntimeconfig.cache
 E:\C# journey\my C# journey\my C# journey\obj\Debug\net9.0\ref\my C# journey.dll
+E:\C# journey\my C# journey\my C# journey\obj\Debug\net9.0\my C# journey.sourcelink.json
